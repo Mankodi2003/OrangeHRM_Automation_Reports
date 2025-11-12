@@ -19,6 +19,14 @@
 <img src="screenshots/sample_screenshot.png" width="500" alt="Extent Report Preview"/>
 <img src="reports/sample_report.png" width="500" alt="Extent Report Preview"/>
 
+---
+
+📸 *Preview of Project Structure*
+
+<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Basic_Simple/blob/main/blob/main/assets/project_preview.jpg" width="600" alt="Project Screenshot"/>
+
+---
+
 </div>
 
 ---
