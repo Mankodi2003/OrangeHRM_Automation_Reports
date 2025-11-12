@@ -73,6 +73,9 @@ mvn clean install
 # 4️⃣ Execute TestNG suite
 Right-click testng.xml → Run As → TestNG Suite
 
+# 5️⃣ Open Extent Report
+Open reports/ExtentReport.html
+
 ---
 
 👤 Author
@@ -88,5 +91,4 @@ Prasiddh Mankodi
 Made with ❤️ and ☕ in Eclipse IDE ⭐
 
 </div>
-# 5️⃣ Open Extent Report
-Open reports/ExtentReport.html
+
