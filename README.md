@@ -16,9 +16,9 @@
 
 📸 *Project Preview with Extent Reports*
 
-<img src="" width="500" alt="Extent Report Preview"/>
-<img src="" width="500" alt="Extent Report Preview"/>
-<img src="" width="500" alt="Extent Report Preview"/>
+<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Reports/blob/main/blob/main/assets/report%20one.jpg" width="500" alt="Extent Report Preview"/>
+<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Reports/blob/main/blob/main/assets/report%20two.jpg" width="500" alt="Extent Report Preview"/>
+<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Reports/blob/main/blob/main/assets/report%20three.jpg" width="500" alt="Extent Report Preview"/>
 
 ---
 
